@@ -50,7 +50,7 @@ public class MultipleRelationshipsToSameEntityType {
 	}
 
 	@Test
-	public void relationshipsBetweenSameObjectClassNotUpdatedAsExpected() {
+	public void multipleRelationshipsBetweenTheSameEntityTypesNotUpdatedAsExpected() {
 
 		// VALIDATE THE INITIAL GRAPH
 		// there should be no LICENSEE relationships but include them in the check anyway to show the issue
