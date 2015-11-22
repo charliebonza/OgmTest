@@ -6,6 +6,8 @@
 
 Failing test where two entity types have multiple relationships between them.
 
+https://github.com/charliebonza/OgmTest/blob/master/src/test/java/ogm/test/MultipleRelationshipsToSameEntityType.java
+
 The example in this case is Ownership and Licensee relationships between a User entity and another OwnedLicensedEntity. 
 
 * The OwnedLicensedEntity has one ower and can have 0...n licensees. 
