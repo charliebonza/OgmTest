@@ -16,6 +16,5 @@ The example in this case is Ownership and Licensee relationships between a User 
 See the wiki for a visual representation of the graph:
 https://github.com/charliebonza/OgmTest/wiki
 
-ADDRESSED in https://github.com/neo4j/neo4j-ogm/issues/38
-
-VIA COMMENT https://github.com/neo4j/neo4j-ogm/issues/38#issuecomment-158985308
+* ADDRESSED in https://github.com/neo4j/neo4j-ogm/issues/38
+* VIA COMMENT https://github.com/neo4j/neo4j-ogm/issues/38#issuecomment-158985308
