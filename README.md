@@ -17,4 +17,5 @@ See the wiki for a visual representation of the graph:
 https://github.com/charliebonza/OgmTest/wiki
 
 ADDRESSED in https://github.com/neo4j/neo4j-ogm/issues/38
+
 VIA COMMENT https://github.com/neo4j/neo4j-ogm/issues/38#issuecomment-158985308
